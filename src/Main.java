@@ -7,6 +7,9 @@ public class Main {
         s.shoot(9,7, "h");
         s.shoot(9,8, "h");
         s.shoot(9,9, "d");
+
+        s.getField();
+        s.getField();
         s.getField();
 
 
